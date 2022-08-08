@@ -7,3 +7,5 @@ This is the link of my project:https://zealous-forest-0aa039010.1.azurestaticapp
 
 ### Here are my project snapshots:
 ![image](https://user-images.githubusercontent.com/100688001/183459799-4d704bb2-78f2-41f6-8ce3-ee2dc5ff586f.png)
+![image](https://user-images.githubusercontent.com/100688001/183461433-7e78f54c-1d3c-4f04-bf7a-16b226cb8426.png)
+
